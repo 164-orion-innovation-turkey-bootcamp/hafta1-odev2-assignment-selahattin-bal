@@ -1,7 +1,7 @@
 # hafta1-odev2
 <strong>2-) Tic Tac Toe Uygulaması</strong></br>
 https://nostalgic-archimedes-b2b509.netlify.app/ </br>
-![alt text](ss.jpg)
+![alt text](screenshot.jpg)
 </br>
 <strong>2-) Tic Tac Toe Uygulaması</strong>
 
